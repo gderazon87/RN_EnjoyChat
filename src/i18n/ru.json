@@ -1,0 +1,140 @@
+{
+  "WELCOME": "Welcome",
+  "COMMON": {
+    "ERROR": "Error",
+    "ERROR_TITLE": "Unexpected error occurred",
+    "REPORT_MESSAGE": "We have reported this to our team ! Please close the app and start again!",
+    "CLOSE": "Закрыть"
+  },
+  "FOOTER": {
+    "HOME": "Главная",
+    "CONVERSATION": "Сообщения",
+    "NOTIFICATION": "Уведомления",
+    "SETTINGS": "Настройки"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "URL установки",
+    "URL_ERROR": "Введите правильный URL",
+    "CONNECT": "Подключиться",
+    "CHANGE_LANGUAGE": "Изменить язык",
+    "ERROR": "Invalid installation url"
+  },
+  "LOGIN": {
+    "TITLE": "Войти в свой аккаунт",
+    "EMAIL": "Почта",
+    "PASSWORD": "Пароль",
+    "EMAIL_ERROR": "Введите правильный email",
+    "PASSWORD_ERROR": "Введите корректный пароль",
+    "LOGIN": "Войти",
+    "FORGOT_PASSWORD": "Забыли пароль?",
+    "RESET_HERE": "Сбросить здесь",
+    "NO_ACCOUNT": "Нет учетной записи?",
+    "CREATE_ACCOUNT": "Создать новый аккаунт",
+    "SETTINGS": "Settings",
+    "CHANGE_LANGUAGE": "Изменить язык",
+    "TERMS": "Условия использования",
+    "CHANGE_URL": "Изменить URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Please enter your email",
+    "EMAIL_ERROR": "Введите правильный email",
+    "RESET_HERE": "Сбросить пароль",
+    "HEADER_TITLE": "Сбросить пароль",
+    "TITLE": "Забыли пароль?",
+    "SUB_TITLE": "Не волнуйтесь! Все нормально"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Разговоры",
+    "MINE": "Мои",
+    "UN_ASSIGNED": "Неназначен",
+    "ALL": "Все",
+    "EMPTY": "В этой группе нет активных разговоров.",
+    "PICTURE_CONTENT": "Фото сообщение",
+    "ATTACHMENT_CONTENT": "Вложение файла",
+    "DOWNLOAD": "Скачать",
+    "TODAY": "Today",
+    "YESTERDAY": "Вчера",
+    "TYPE_MESSAGE": "Введите сообщение",
+    "TYPING": "печатает",
+    "ALL_CONVERSATION_LOADED": "Все беседы загружены",
+    "RESOLVE": "Решить разговор",
+    "RE_OPEN": "Переоткрыть разговор",
+    "ASSIGN": "Назначить ответсвенного",
+    "FILE_SIZE_LIMIT": "File exceeds the 5MB attachment limit",
+    "CANCEL": "Отмена",
+    "PRIVATE_MSG_INPUT": "Это будет видно только сотрудникам",
+    "UN_ASSIGN": "Unassign conversation"
+  },
+  "FILTER": {
+    "HEADER_TITLE": "Фильтр сообщений",
+    "CHOOSE_INBOX": "Выбрать входящие",
+    "CHOOSE_STATUS": "Conversation Status",
+    "OPEN": "Open",
+    "RESOLVED": "Resolved",
+    "BOT": "Bot",
+    "SUBMIT": "Submit"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Settings",
+    "AVAILABILITY": "Availability",
+    "NOTIFICATION": "Notification Preferences",
+    "HELP": "Help Docs",
+    "CHAT_WITH_US": "Chat with Us",
+    "LOG_OUT": "Logout",
+    "SWITCH_ACCOUNT": "Switch Account",
+    "CHANGE_LANGUAGE": "Change Language",
+    "SUBMIT": "Submit"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notifications",
+    "EMPTY": "No notifications yet.",
+    "EMPTY_MORE_TEXT": "Once you start receiving notifications, they'll appear here.",
+    "ALL_NOTIFICATION_LOADED": "All notifications loaded",
+    "MARK_ALL": "Mark all as read",
+    "CANCEL": "Cancel"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Busy",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Notification Preferences",
+    "EMAIL": "Email",
+    "PUSH": "Push",
+    "CONVERSATION_CREATE_PUSH": "Send push notifications when a new conversation is created",
+    "CONVERSATION_ASSIGNEE_PUSH": "Send push notifications when a conversation is assigned to me",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Send push notifications when a new message is created in an assigned conversation",
+    "CONVERSATION_CREATE_EMAIL": "Send email notifications when a new conversation is created",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Send email notifications when a conversation is assigned to me",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Send email notifications when a new message is created in an assigned conversation"
+  },
+  "CONVERSATION_DETAILS": {
+    "BROWSER": "Браузер",
+    "OPERATING_SYSTEM": "Operating System",
+    "INITIATED_AT": "Initiated at",
+    "INITIATED_FROM": "Initiated from"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Действия"
+  },
+  "AGENT": {
+    "TITLE": "Выбрать Агента"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Could not connect to Woot Server, Please try again later",
+    "OfFLINE": "You must connect to Wi-fi or a cellular network to get online again",
+    "CANNOT_FETCH": "There was an error fetching the information, please try again",
+    "AUTH": "Username / Password Incorrect. Please try again",
+    "NO_ACCOUNTS_MESSAGE": "You don't have access to any enjoychat accounts"
+  },
+  "SUCCESS": {
+    "AUTH": "Login Successful"
+  },
+  "EXIT": {
+    "TITLE": "Выйти",
+    "SUBTITLE": "Вы уверены, что хотите выйти?",
+    "CANCEL": "Отмена",
+    "OK": "Ок"
+  }
+}
